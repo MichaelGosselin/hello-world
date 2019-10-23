@@ -12,3 +12,5 @@ Well, I will write the secret message in invisible ink.
 
 
 [end message]
+
+Aha! you now know the secret message!  Be sure to use your decoder ring!
